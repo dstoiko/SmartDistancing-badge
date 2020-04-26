@@ -2,6 +2,8 @@
 
 Simulation of the SmartDistancing LED badge, using the Adafruit CircuitPlayground simulator on Visual Studio Code.
 
+![Connecting](demo/badge-connecting.gif)
+
 ## Running
 
 1. Get Visual Studio Code
